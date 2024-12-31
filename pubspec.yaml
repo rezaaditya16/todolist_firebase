@@ -12,6 +12,7 @@ dependencies:
   sqflite: ^2.0.0+4
   path: ^1.8.0
   path_provider: ^2.0.11
+  firebase_core: ^2.22.0
 
 
 dev_dependencies:
